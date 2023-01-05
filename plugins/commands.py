@@ -23,10 +23,10 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
             [
-                InlineKeyboardButton('⚡ CHANNEL ⚡', url='https://t.me/MROTTTamilOffl')
+                InlineKeyboardButton('⚡ CHANNEL ⚡', url='https://t.me/qtmve_linkzZ')
             ],
             [
-                InlineKeyboardButton('⚡ DISCUSSION ⚡', url=f"https://t.me/MR_OTT_REQUEST"),
+                InlineKeyboardButton('⚡ DISCUSSION ⚡', url=f"https://t.me/qtmve_requestZz"),
             ],
             [
                 InlineKeyboardButton(text=DOWNLOAD_TEXT_NAME,url=DOWNLOAD_TEXT_URL)
@@ -47,8 +47,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ Add Me To Your Groups ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ CHANNEL ⚡', url='https://t.me/MROTTTamilOffl'),
-            InlineKeyboardButton('⚡ DISCUSSION ⚡', url='https://t.me/MROTTTamilOffl')
+            InlineKeyboardButton('⚡ CHANNEL ⚡', url='https://t.me/qtmve_linkzZ'),
+            InlineKeyboardButton('⚡ DISCUSSION ⚡', url='https://t.me/qtmve_requestZz')
             ],[
             InlineKeyboardButton('♻️ HELP ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ABOUT ♻️', callback_data='about')
@@ -93,8 +93,8 @@ async def start(client, message):
         buttons = [[
             InlineKeyboardButton('⚚ Add Me To Your Groups ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-            InlineKeyboardButton('⚡ CHANNEL ⚡', url='https://t.me/MROTTTamilOffl'),
-            InlineKeyboardButton('⚡ DISCUSSION ⚡', url='https://t.me/MR_OTT_REQUEST')
+            InlineKeyboardButton('⚡ CHANNEL ⚡', url='https://t.me/qtmve_linkzZ'),
+            InlineKeyboardButton('⚡ DISCUSSION ⚡', url='https://t.me/qtmve_requestZz')
             ],[
             InlineKeyboardButton('♻️ HELP ♻️', callback_data='help'),
             InlineKeyboardButton('♻️ ABOUT ♻️', callback_data='about')
@@ -247,7 +247,7 @@ async def start(client, message):
         chat_id=message.from_user.id,
         file_id=file_id,
         caption=f_caption,
-        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('❤️️JOIN❤️️', url='https://t.me/MROTTTamilOffl') ] ] ),
+        reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton('❤️️JOIN❤️️', url='https://t.me/qtmve_linkzZ') ] ] ),
         protect_content=True if pre == 'filep' else False,
         )
                     
