@@ -78,7 +78,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/RAFIQ-CLOUDZ/url-auto-delete-shortener-bot-v2&branch=koyeb&name=mrxdufilter)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/RAFIQ-CLOUDZ/Madan-Op-Url&branch=koyeb&name=mrxdufilter)
 
 <i>**[Watch Deploying Tutorial...](https://youtu.be/o1Q9AxKzf_Y)**</i>
 
@@ -86,7 +86,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
-git clone https://github.com/GreyMattersbot/url-auto-delete-shortener-bot
+git clone https://github.com/RAFIQ-CLOUDZ/Madan-Op-Url
 # Install Packages
 pip3 install -U -r requirements.txt
 Edit info.py with variables as given below then run bot
@@ -125,8 +125,8 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 ## Support
-[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
-[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
+[![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/MR_OTT_REQUEST)
+[![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/MROTTTamilOffl)
 
 ## Credits 
 ## Thanks to 
